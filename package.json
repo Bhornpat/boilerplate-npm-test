@@ -1,27 +1,25 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Bhornpat",
+  "description": "A project that does something awesome",
   "keywords": [
-    "freecodecamp",
-    "express",
-    "hello"
+    "freecodecamp"
   ],
-  "dependencies": {
-    "express": "^4.14.0"
-  },
+  "license": "ISC",
+  "version": "1.0.0",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
+  "dependencies": {
+    "express": "^4.14.0"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm"
   },
-  "description": "A project that does something awesome",
   "bugs": {
     "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
   },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
-  "version": "1.0.0",
-  "license": "ISC"
+  "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme"
 }
