@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
   "version": "1.0.0",
-  "keywords": [],
+  "keywords": [
+    "freecodecamp",
+    "Bomi",
+    "hello"
+  ],
   "license": "ISC"
 }
